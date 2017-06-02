@@ -25,7 +25,7 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 
 ## Religion
 
-> If you mean religion as in Baseball, then yes
+> Catholic
 {: .notice--primary}
 
 ## Political Association
