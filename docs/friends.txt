@@ -21,7 +21,7 @@ Hey guyz, i am babe's only living sibling since we were infants.<br/> We both gr
 
 <h2>Waite Hoyt</h2>
 
-<img src="/images/BHoyt.jpg" style="float: left;"/>
+<img src="images/BHoyt.jpg" style="float: left;"/>
 <span style="float: right;" class="notice--info"> 
 I am Babe's best bud in baseball. We played together for years on the Yankees, and even a few on the Red Sox.<br/>
 I am famous for having the most wins in Baseball World Series record.<br/>
