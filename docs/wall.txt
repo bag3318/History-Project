@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_color: "#5e616c" #
-  overlay_image: images/facts.png
+  overlay_image: images/Facts.png
 permalink: /wall.html
 excerpt: "<br /><br/><br/><br /><br /><br />" #
 ---
