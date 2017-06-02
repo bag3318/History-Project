@@ -15,7 +15,7 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 
 ## Birthday
 
-> **I was born **February 6, 1895**. 
+> I was born **February 6, 1895**. 
 {: .notice--primary}
 
 ## Hometown
@@ -25,7 +25,7 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 
 ## Religion
 
-> Catholic
+> If you mean religion as in Baseball, then yes; but otherwise Catholic
 {: .notice--primary}
 
 ## Political Association
