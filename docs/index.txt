@@ -33,3 +33,16 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 > Got none other than Baseball
 {: .notice--primary}
 
+## Contact Info
+
+### Address
+
+> 8 Yankees, NY
+
+### Phone Number
+
+> 1-800-THE-BABE
+
+### Email Address:
+
+> yankeehalloffamer36@gmail.com
