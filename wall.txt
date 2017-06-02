@@ -1,0 +1,36 @@
+---
+layout: splash
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/facts.png
+permalink: /wall.html
+excerpt: "<br /><br/><br/><br /><br /><br />" #
+---
+
+# 6 Facts
+
+![bb](images/baberuth.gif)
+{: style="clear: left; border: 2px solid dodgerblue;float: left;border-radius: 8px;"}
+
+> **Fact #1**: Ruth was still living at St. Mary’s when he signed with the Baltimore Orioles of the International League in Feb. 1914. He would be in the major leagues less than five months later.
+{: .notice--danger}
+
+> **Fact #2**: Babe started out as a great left handed pitcher; however, he later on became one of the worlds greatest hitters \(position: outfield\)
+{: .notice--danger}
+
+<br/><br/><br/><br/>
+
+![bb1](images/download.jpeg)
+{: style="clear: right; border: 2px solid dodgerblue;float: right;border-radius: 8px;height: 70%;"}
+
+> **Fact #3**: Babe was one of eight children, though only 1 of 2 that survived infancy. 
+{: .notice--warning}
+
+> **Fact #4**: Babe was introduced to baseball through his **father monk** in a Catholic Orphanage.
+{: .notice--warning}
+
+> **Fact #5**: Babe hit 714 home runs, which stood as the record until 1974.
+{: .notice--warning}
+
+> **Fact #6**: Babe's mother died when he was just 12, leaving him with his father and very little money. 
+{: .notice--warning}

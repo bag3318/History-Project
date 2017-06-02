@@ -1,0 +1,42 @@
+---
+layout: splash
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.baberuthcentral.com%2Fwp-content%2Fgallery%2Fjulias-personal-photos-the-babe-and-kids%2F0085-signing-autographs-in.jpg&f=1
+permalink: /personal.html
+excerpt: Personal Info
+---
+
+# Activities
+
+> Baseball
+{: .notice--info}
+
+> Pitching
+{: .notice--info}
+
+> Hitting
+{: .notice--info}
+
+# Interests
+
+> Baseball
+{: .notice--warning}
+
+> Baseball History
+{: .notice--warning}
+
+> Playing the game
+{: .notice--warning}
+
+# Favorite Music
+
+> 20's Music
+{: .notice--danger}
+
+> Jelly Roll Morton
+{: .notice--danger}
+
+> Willy "The Lion" Smith
+{: .notice--danger}
+

@@ -1,0 +1,12 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Photos
+    url: /photos
+  - title: The Wall
+    url: /wall
+  - title: Friends
+    url: /friends
+  - title: Personal
+    url: /personal

@@ -1,0 +1,35 @@
+---
+layout: splash
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/bage_ruth.jpg
+excerpt: "<br /><br/><br/><br /><br /><br />" #
+---
+
+# Basic Information
+
+> Hey guys, I am the **Babe**.
+
+## Network
+
+
+## Birthday
+
+> **I was born **February 6, 1895**. 
+{: .notice--primary}
+
+## Hometown
+
+> My hometown is Baltimore, in Maryland. 
+{: .notice--primary}
+
+## Religion
+
+> If you mean religion as in Baseball, then yes
+{: .notice--primary}
+
+## Political Association
+
+> Got none other than Baseball
+{: .notice--primary}
+

@@ -1,0 +1,901 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Play",
+				"PlayRockPaperScissorsGame"
+			],
+			[
+				"exec",
+				"executables"
+			],
+			[
+				"Object",
+				"ObjectArrays〔namespace〕"
+			],
+			[
+				"foled",
+				"folder_exclude_patterns"
+			],
+			[
+				"initfunction",
+				"initfunctions"
+			],
+			[
+				"init",
+				"initfunction1"
+			],
+			[
+				"INI",
+				"initfunctions"
+			],
+			[
+				"confimr",
+				"confirmations"
+			],
+			[
+				"initfunct",
+				"initfunction2"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"master",
+				"masterfunction"
+			],
+			[
+				"color",
+				"Color_Off"
+			],
+			[
+				"English-Projec",
+				"English-Project-master"
+			],
+			[
+				"rub",
+				"add_ruby_type\tfunc"
+			],
+			[
+				"add",
+				"add_development_dependency"
+			],
+			[
+				"su",
+				"SublimeLinter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quick comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git quic k add",
+				"Git: Quick Add"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git quick add",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"git quic kadd",
+				"Git: Quick Add"
+			],
+			[
+				"git quickc",
+				"Git: Quick Commit"
+			],
+			[
+				"git quick",
+				"Git: Quick Add"
+			],
+			[
+				"git quick ad",
+				"Git: Quick Add"
+			],
+			[
+				"git quick ",
+				"Git: Quick Add"
+			],
+			[
+				"git quikc comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gitqui ck",
+				"Git: Quick Add"
+			],
+			[
+				"git ad",
+				"Git: Quick Add"
+			],
+			[
+				"git quick co",
+				"Git: Quick Commit"
+			],
+			[
+				"git staut",
+				"Git: Status"
+			],
+			[
+				"git uqi",
+				"Git: Quick Commit"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git add curr",
+				"Git: Add Current File"
+			],
+			[
+				"git comimt",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Quick Add"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Quick Add"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git commt",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gti commi",
+				"Git: Commit"
+			],
+			[
+				"i",
+				"Set Syntax: Intel HEX"
+			],
+			[
+				"intel",
+				"Set Syntax: Intel HEX"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"google ",
+				"Google Spell Check"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"a file",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"eva",
+				"Evaluate: Evaluate Selections"
+			],
+			[
+				"color pic",
+				"Color Picker: Insert Color"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"Package Control: package",
+				"Package Control: List Packages"
+			],
+			[
+				"git: init",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Github: Repository"
+			],
+			[
+				"side bar git",
+				"Git (SideBarGit): Push"
+			],
+			[
+				"gem",
+				"Gem Browser: List Gems"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"search",
+				"Search In Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intsll",
+				"Package Control: Install Package"
+			],
+			[
+				"gemma",
+				"Gemma: Replace selection/line with Gemfile entry for latest stable version"
+			],
+			[
+				"snippet",
+				"Snippet: Long Tag"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pyling",
+				"Preferences: SublimeLinter Key Bindings – Default"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Snippet: #!/usr/bin/env ruby -wKU"
+			],
+			[
+				"SublimeLinter Settin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"CSSLint: Run CSSLint",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"j",
+				"JSHint"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 642.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"clear.console",
+			"clear console",
+			"console.clear",
+			"clr",
+			"cls",
+			"clear",
+			"jekyll",
+			"j",
+			"sublime.log_commands(False)",
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(false)",
+			"sublime.log_commands(True)",
+			"git --help",
+			"os.system(\"rubycritic\")",
+			"import os",
+			"sublime.version()",
+			"sublime.help()",
+			"sublime.version()",
+			"-linter",
+			"--exclude-linter",
+			"where scss-lint",
+			"pylint",
+			"sublimelinter-pylint",
+			"-h",
+			"--help",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/css/style.scss",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.java",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_layouts/default.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_config.yml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.gemspec",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.pl",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Comparing_Code.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Code.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/rps/version.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.py",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.cs",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.c",
+		"/Users/brockglatman/Desktop/calc.html",
+		"/Users/brockglatman/Desktop/calc2.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/other langs/rps.cpp",
+		"/Users/brockglatman/Desktop/test.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/other_langs.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/about.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_includes/header.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_includes/footer.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Gemfile",
+		"/Users/brockglatman/Desktop/RockPaperScissors/bin/PlayRockPaperScissorsGame",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/code.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/comparing_code.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/css/style.css",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/normalize.scss",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/pace.sass",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/js/pace.min.js",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/jekyll-theme-cayman.scss",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/normalize.sass",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/index.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/css/pace.sass",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/pace.css",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/pace.css",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/how_to_build.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/script/release",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/script/bootstrap",
+		"/Users/brockglatman/Desktop/RockPaperScissors/.gitignore",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.pl",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.cs",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.py",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/explanation.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/Gemfile.lock",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/favicons/safari-pinned-tab.svg",
+		"/Users/brockglatman/Desktop/RockPaperScissors/rps.js",
+		"/Users/brockglatman/Desktop/RockPaperScissors/Gemfile",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Gemfile.lock",
+		"/Users/brockglatman/Desktop/RockPaperScissors/RockPaperScissors.sublime-project",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_data/navigation/en_US.yml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/crowdin.yaml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/exec/rps.bash",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.7.8.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/favicons/mstile-150x150.png",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/script/cibuild",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/css/pace.css",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/rouge-github.scss",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_sass/variables.scss",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/jekyll-theme-cayman.gemspec",
+		"/Users/brockglatman/Desktop/RockPaperScissors/exec/run.bat",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/about.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/css/pace.css",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Testing.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/How_to_Run.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/How_to_Build.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/Comparing_Code.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/favicons/browserconfig.xml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.7.6.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/js/scrolling.js",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/favicons/android-chrome-192x192.png",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.7.5.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/Code.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/index.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/how_to_run.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/js/pace.min.js",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/thumbnail.png",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/Constants.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/Testing.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/How_to_Build.html",
+		"/Users/brockglatman/Desktop/ti 36x pro.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/PrivateMethods.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.7.2.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/bin/rps",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/LICENSE",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/Copying.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_includes/favicon.html",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.6.8.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/favicons/browserconfig.xml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/favicons/safari-pinned-tab.svg",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/assets/favicons/mstile-150x150.png",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.6.6.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/browserconfig.xml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/android-chrome-256x256.png",
+		"/Users/brockglatman/Desktop/RockPaperScissors/README.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/Rakefile",
+		"/Users/brockglatman/Desktop/RockPaperScissors/test/test_rps.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/script/server",
+		"/Users/brockglatman/Desktop/RockPaperScissors/exec/uninstall.sh",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/assets/js/scrolling_title.js",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_data/navigation/navigation.yml",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/CONTRIBUTING.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.6.1.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/LICENSE",
+		"/Users/brockglatman/Desktop/RockPaperScissors/certs/gem-public_cert.pem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.6.0.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.5.7.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/.jekyll-metadata",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/About.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.5.4.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.5.3.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.5.2.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/script/bootstrap",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/script/cibuild",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/script/release",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/_site/script/server",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.5.1.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.4.9.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/docs/CODE_OF_CONDUCT.md",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-2.4.8.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/rps.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-1.6.0/rps.gemspec",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/ref/PrivateMethods.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-1.5.1.gem",
+		"/Users/brockglatman/Desktop/RockPaperScissors/lib/ref/Constants.rb",
+		"/Users/brockglatman/Desktop/RockPaperScissors/RPS.pl",
+		"/Users/brockglatman/Desktop/RockPaperScissors/PlayRockPaperScissorsGame-1.4.8.gem",
+		"/Users/brockglatman/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"].colorize(:blue)",
+			"].colorize(:red)",
+			"].colorize(:green)",
+			"ColorizedString[",
+			"].colorize(:red)",
+			".\" ",
+			"].colorize(:red)",
+			"].colorize(:green)",
+			"].colorize(:blue)",
+			"ColorizedString[",
+			"].colorize",
+			"ColorizedString[",
+			"/resource/theme/styles",
+			"h1",
+			"header",
+			"tables",
+			"xy",
+			"lizard",
+			"per",
+			"></",
+			"or",
+			"11",
+			"__",
+			"rps",
+			"statements",
+			"7",
+			"<pre",
+			",",
+			"{..)....",
+			"Code",
+			"choice2",
+			"choice1",
+			"value2",
+			"value1",
+			"areThey",
+			"computerChoice",
+			"consoleLine",
+			"6d65",
+			"/assets",
+			">",
+			"2.6.8",
+			"/assets/",
+			".\n",
+			"[//]",
+			"green.bold",
+			"purple",
+			"green",
+			"colorize[:green",
+			".green",
+			", :mode => :bold",
+			".colorize(:bold)",
+			".bold",
+			":color => :green, ",
+			"].colorize(:color => :green, :mode => :bold)",
+			"].colorize(:color => :green, :mode => :bold) ",
+			"ColorizedString[\"",
+			".colorize(:color => green, :mode => bold)",
+			".green.bold",
+			"\"",
+			">=",
+			"PrivateMethods",
+			"PrivateVars",
+			"puts",
+			"|\n",
+			"'",
+			"master",
+			"|",
+			"\"",
+			"'",
+			"README",
+			"s",
+			"ObjectArrays",
+			"#",
+			":SCISSORS",
+			":ROCK",
+			":PAPER",
+			"+=",
+			"script",
+			"\t\n",
+			"/",
+			"'",
+			"method/",
+			"method",
+			"method/",
+			"/method",
+			"confirmations",
+			" \n",
+			"\"",
+			"'",
+			"END",
+			"\"\n",
+			"1",
+			"\"\n",
+			"8",
+			" ",
+			"using ",
+			";",
+			" l",
+			"--user-instal",
+			"sudo",
+			"${normal}",
+			"        ",
+			"       ",
+			"      ",
+			"        ",
+			".\n",
+			",\n",
+			"\n",
+			"# ",
+			"file",
+			"#",
+			" #",
+			"this",
+			"${BBlack}",
+			"${bold}",
+			"Press",
+			"cd",
+			"kwon",
+			"3px",
+			"weisel",
+			"weisle",
+			"wesle",
+			"weisel",
+			"/>\n",
+			"images",
+			" #",
+			"\"",
+			"~>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".colorize",
+			"",
+			"http://www.casio.com/resource/theme/styles",
+			"g",
+			"f",
+			"e",
+			"d",
+			"c",
+			"b",
+			"a",
+			".colorize(:color => :green, :mode => :bold)",
+			".colorize(:color => green, :mode => bold)",
+			"~>",
+			"'",
+			"\"",
+			"Constants",
+			":scissors",
+			":rock",
+			":paper",
+			">=",
+			"",
+			"confirmations_master",
+			"gem \"",
+			"",
+			"${nonbold}",
+			"${bold}",
+			"${BBlack}",
+			">=",
+			"=>",
+			"Pok&eacute;mon",
+			"<a target=\"_blank\" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"output.git-commit":
+	{
+		"height": 98.0
+	},
+	"output.git-pull":
+	{
+		"height": 98.0
+	},
+	"output.git-push":
+	{
+		"height": 98.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "hist.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"_includes/tag-list.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 376.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

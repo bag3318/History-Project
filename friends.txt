@@ -1,0 +1,30 @@
+---
+layout: splash
+header:
+  overlay_image: https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hmmrmedia.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fbabe_ruth.gif&f=1
+  overlay_color: "#5e616c" #
+permalink: /friends.html
+excerpt: Friends
+---
+
+<div style="display: inline-block">
+
+<h2>Mrs. Julia Ruth Stevens</h2>
+
+<img src="http://images.collectors.com/smrweb/smr1207/Babe-1.jpg" style="float: left;"/>
+<span style="float: right; " class="notice--info">
+Hey guyz, i am babe's only living sibling since we were infants.<br/> We both grew up very poor and we were always looking for food on the streets. <br/> The great depression was when my family really struggled. <br/> Luckily, my big bro got some great paychecks from the game itself (baseball) XD!
+</span>
+</div>
+
+<div style="display: inline-block"> 
+
+<h2>Waite Hoyt</h2>
+
+<img src="/images/BHoyt.jpg" style="float: left;"/>
+<span style="float: right;" class="notice--info"> 
+I am Babe's best bud in baseball. We played together for years on the Yankees, and even a few on the Red Sox.<br/>
+I am famous for having the most wins in Baseball World Series record.<br/>
+I also became an announcer for many teams, and I am known for my story telling when games get rained out.
+</span>
+</div>
