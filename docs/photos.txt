@@ -12,4 +12,4 @@ permalink: /photos.html
 
 ## Batting
 
-![1](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fbabe-ruth-is-greeted-at-the-plate-by-lou-gehrig-after-hitting-a-homer-picture-id514944976%3Fs%3D594x594&f=1){: style="width: 150px;height: 150px;"}
+![1](http://media.gettyimages.com/photos/babe-ruth-is-greeted-at-the-plate-by-lou-gehrig-after-hitting-a-homer-picture-id514944976?s=594x594){: style="width: 150px;height: 150px;"}
