@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/friends.html</loc>
+<loc>/friends.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/personal.html</loc>
+<loc>/personal.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/photos.html</loc>
+<loc>/photos.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/wall.html</loc>
+<loc>/wall.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/robots/</loc>
+<loc>/robots/</loc>
 </url>
 </urlset>
