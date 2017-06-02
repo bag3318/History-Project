@@ -3,7 +3,7 @@ layout: single
 permalink: /photos.html
 ---
 
-<img src="/images/Babe_Ruth2.jpg" height="150" width="150"/>
-<img src="/images/Babe_Ruth_in_Stands.jpg" height="150" width="150" />
-<img src="/images/download.jpeg" height="150" width="150"/>
-<img src="/images/baberuth.gif" height="150" width="150" />
+<img src="images/Babe_Ruth2.jpg" height="150" width="150"/>
+<img src="images/Babe_Ruth_in_Stands.jpg" height="150" width="150" />
+<img src="images/download.jpeg" height="150" width="150"/>
+<img src="images/baberuth.gif" height="150" width="150" />
