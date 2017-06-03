@@ -40,3 +40,6 @@ excerpt: Personal Info
 > Willy "The Lion" Smith
 {: .notice--danger}
 
+## Movies
+
+![22](images/movies.png)
