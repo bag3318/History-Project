@@ -15,7 +15,7 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 > **Fact #1**: Ruth was still living at St. Mary’s when he signed with the Baltimore Orioles of the International League in Feb. 1914. He would be in the major leagues less than five months later.
 {: .notice--danger}
 
-> **Fact #2**: Babe started out as a great left handed pitcher; however, he later became one of the worlds greatest hitters \(position: outfield\)
+> **Fact #2**: Babe started out as a great left handed pitcher; however, he later became one of the worlds greatest hitters \(position: outfield\); 1913
 {: .notice--danger}
 
 <br/><br/><br/><br/>
@@ -23,10 +23,10 @@ excerpt: "<br /><br/><br/><br /><br /><br />" #
 ![bb1](images/download.jpeg)
 {: style="clear: right; border: 2px solid dodgerblue;float: right;border-radius: 8px;height: 70%;"}
 
-> **Fact #3**: Babe was one of eight children, though only 1 of 2 that survived infancy. 
+> **Fact #3**: Babe was one of eight children, though only 1 of 2 that survived infancy. 1898
 {: .notice--warning}
 
-> **Fact #4**: Babe was introduced to baseball through his **father monk** in a Catholic Orphanage.
+> **Fact #4**: Babe was introduced to baseball through his **father monk** in a Catholic Orphanage. 1910
 {: .notice--warning}
 
 > **Fact #5**: Babe hit 714 home runs, which stood as the record until 1974.
